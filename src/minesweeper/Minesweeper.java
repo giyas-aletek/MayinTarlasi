@@ -9,7 +9,7 @@ import java.util.Timer;
 import java.util.TimerTask;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import static javax.swing.JFrame.EXIT_ON_CLOSE;
+//import static javax.swing.JFrame.EXIT_ON_CLOSE;
 
 public class Minesweeper extends JFrame implements MouseListener, ActionListener {
     int yukseklik,genislik,mS,kordinat[][];
